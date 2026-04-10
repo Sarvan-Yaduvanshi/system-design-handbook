@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "02-Low-Level-System-Design/01- introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "01- introduction"
             }
           }
         ]
@@ -183,10 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a34e31ffe7ea775c",
+  "active": "8a0c346b03afcab1",
   "lastOpenFiles": [
+    "01-Foundations-of-System-Design/01-Introduction.md",
+    "02-Low-Level-System-Design/01- introduction.md",
+    "01-Foundations-of-System-Design/02-Why-System-Design-Matters.md",
+    "README.md",
+    "01-Foundations-of-System-Design",
+    "03-High-Level-System-Design",
+    "02-Low-Level-System-Design",
+    "Welcome.md",
     "low-level-design",
-    "high-level-design",
-    "Welcome.md"
+    "high-level-design"
   ]
 }
