@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-Low-Level-System-Design/01- introduction.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,9 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a0c346b03afcab1",
+  "active": "a34e31ffe7ea775c",
   "lastOpenFiles": [
     "01-Foundations-of-System-Design/01-Introduction.md",
+    "03-Low-Level-System-Design/LLD-Introduction.md",
+    "01-Foundations-of-System-Design/04-Operating System Concepts.md",
+    "03-Low-Level-System-Design",
+    "01-Foundations-of-System-Design/02-CS-Fundamentals.md",
+    "Untitled.md",
+    "01-Foundations-of-System-Design/03-Computer Networks.md",
     "02-Low-Level-System-Design/01- introduction.md",
     "01-Foundations-of-System-Design/02-Why-System-Design-Matters.md",
     "README.md",
